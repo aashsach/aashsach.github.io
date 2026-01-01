@@ -99,12 +99,12 @@ Led design and scaling of real-time ML systems powering enterprise conversationa
 
 ## Publications & Industry Contributions
 
-- **Building the right-sized zero-to-one platform for easy adoption without feature bloat**, PlatformCon 2025
-- **Probing the Depths of Language Models' Contact-Center Knowledge for Quality Assurance**, EMNLP 2024
-- **Tailored Real-Time Call Summarization System for Contact-Centers**, Interspeech 2023
-- **CauSE: Causal Search Engine for Understanding Contact-Center Conversations**, Interspeech 2023
-- **Cross-lingual/Cross-channel Intent Detection in Contact-Center Conversations**, Interspeech 2023
-- **LiveMLP: ML Platform for Assisting Contact-Center Agents in Real-Time**, SRECON (USENIX) 2023
+- **Building the right-sized zero-to-one platform for easy adoption without feature bloat**, PlatformCon 2025. [link](https://2025.platformcon.com/sessions/building-the-right-sized-zero-to-one-platform-for-easy-adoption-without-feature-bloat)
+- **Probing the Depths of Language Models' Contact-Center Knowledge for Quality Assurance**, EMNLP 2024. [link](https://aclanthology.org/2024.emnlp-industry.60/)
+- **Tailored Real-Time Call Summarization System for Contact-Centers**, Interspeech 2023. [link](https://www.isca-archive.org/interspeech_2023/sachdeva23_interspeech.pdf)
+- **CauSE: Causal Search Engine for Understanding Contact-Center Conversations**, Interspeech 2023. [link](https://www.isca-archive.org/interspeech_2023/pattnaik23_interspeech.pdf)
+- **Cross-lingual/Cross-channel Intent Detection in Contact-Center Conversations**, Interspeech 2023. [link](https://www.isca-archive.org/interspeech_2023/agrawal23b_interspeech.pdf)
+- **LiveMLP: ML Platform for Assisting Contact-Center Agents in Real-Time**, SRECON (USENIX) 2023. [link](https://www.youtube.com/watch?v=VE5A-ojDaI8)
 
 ---
 
