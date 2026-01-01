@@ -2,9 +2,7 @@
 layout: default
 ---
 
-📧 [hello@aashsach.me](mailto:hello@aashsach.me) | 💼 [LinkedIn](https://www.linkedin.com/in/aashsach)
-
----
+📧 [hello@aashsach.me](mailto:hello@aashsach.me) | 💼 [LinkedIn](https://www.linkedin.com/in/aashsach) | ⬇️ [DownloadPDF](https://drive.google.com/file/d/1E1mhLBBMMuNZR8S4idEYVSLxlIKY-zsz/view?usp=sharing)
 
 ## Executive Summary
 

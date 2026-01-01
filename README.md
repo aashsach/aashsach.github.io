@@ -8,7 +8,7 @@ This repository contains my professional profile and resume. The site is hosted 
 
 ## Visit the Site
 
-🌐 **[View my profile](https://aashsach.github.io)**
+🌐 **[View my profile](https://about.aashsach.me)**
 
 ## Contact
 
@@ -34,4 +34,4 @@ bundle exec jekyll serve
 
 ---
 
-*Director of Engineering, AI Agents | Engineering Leader & AI Expert*
+*Engineering Leader & AI Expert*
