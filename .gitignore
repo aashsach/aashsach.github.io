@@ -1,0 +1,42 @@
+# Jekyll build output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler
+.bundle/
+vendor/
+
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS files
+Thumbs.db
+Desktop.ini
+.directory
+
+# Logs
+*.log
+*.tmp
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Optional: Uncomment if you don't want to commit Gemfile.lock
+# Gemfile.lock
+
