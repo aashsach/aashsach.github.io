@@ -3,10 +3,6 @@ title: Aashraya Sachdeva
 description: Director of Engineering, AI Agents | Engineering Leader & AI Expert
 author: Aashraya Sachdeva
 email: hello@aashsach.me
-url: https://aashsach.github.io
-github:
-  username: aashsach
-linkedin_username: aashsach
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
