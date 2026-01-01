@@ -2,15 +2,6 @@
 layout: default
 ---
 
-<div style="text-align: center; margin-bottom: 2rem;">
-  <img src="/assets/images/profile-photo.jpg" alt="Aashraya Sachdeva" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; border: 3px solid #333; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-</div>
-
-# Aashraya Sachdeva
-
-**Director of Engineering, AI Agents**  
-Bengaluru, India | Global/US-facing leadership
-
 📧 [hello@aashsach.me](mailto:hello@aashsach.me) | 💼 [LinkedIn](https://www.linkedin.com/in/aashsach)
 
 ---
@@ -33,7 +24,7 @@ Engineering Director and AI Leader bridging the gap between research and revenue
 
 ## Professional Experience
 
-### **Observe.AI, Inc.**
+### **Observe.AI, Inc.** 
 [Company Profile](https://www.linkedin.com/company/observeai/)
 
 #### **Director of Engineering, AI Agents**  
