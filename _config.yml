@@ -1,3 +1,12 @@
 theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Aashraya Sachdeva
+description: Director of Engineering, AI Agents | Engineering Leader & AI Expert
+author: Aashraya Sachdeva
+email: hello@aashsach.me
+url: https://aashsach.github.io
+github:
+  username: aashsach
+linkedin_username: aashsach
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
