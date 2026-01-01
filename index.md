@@ -24,8 +24,7 @@ Engineering Director and AI Leader bridging the gap between research and revenue
 
 ## Professional Experience
 
-### **Observe.AI, Inc.** 
-[Company Profile](https://www.linkedin.com/company/observeai/)
+### **Observe.AI, Inc.** [company profile](https://www.linkedin.com/company/observeai/)
 
 #### **Director of Engineering, AI Agents**  
 *Aug 2024 – Present*
@@ -47,7 +46,7 @@ Own the P&L, engineering strategy, and execution for the GenAI & AI Agents divis
 
 Org-level technical leader for Observe.AI's Generative AI strategy, foundational ML platforms, and enterprise ML infrastructure.
 
-- Pioneered QuestAI, a proprietary GenAI platform, improving product accuracy to ~80% using advanced reasoning techniques.
+- Pioneered QuestAI, a proprietary LLM, improving product accuracy to ~80% using advanced reasoning techniques.
 - Led GenAI platforms processing billions of enterprise conversations and over 3 trillion LLM tokens at production scale.
 - Led high-level design and execution, aligning ML research, platform engineering, and product delivery.
 - Led Kubernetes-based cost tracking for CPU, GPU, and ML workloads used in GenAI spend governance.
@@ -64,8 +63,7 @@ Led design and scaling of real-time ML systems powering enterprise conversationa
 
 ---
 
-### **Animaker, Inc.**
-[Company Profile](https://www.linkedin.com/company/animaker/)
+### **Animaker, Inc.** [company profile](https://www.linkedin.com/company/animaker/)
 
 #### **Lead Research Scientist/Team Lead, NLP**  
 *May 2019 – Dec 2020*
@@ -76,8 +74,7 @@ Led design and scaling of real-time ML systems powering enterprise conversationa
 
 ---
 
-### **Samsung R&D Institute India, Bengaluru**
-[Company Profile](https://www.linkedin.com/company/samsungrndindiabangalore/)
+### **Samsung R&D Institute India, Bengaluru** [company profile](https://www.linkedin.com/company/samsungrndindiabangalore/)
 
 #### **Senior/Lead Engineer, Deep Learning**  
 *Jul 2017 – May 2019*
@@ -103,8 +100,8 @@ Led design and scaling of real-time ML systems powering enterprise conversationa
 
 - Standardized senior engineering hiring rubrics (SDE3+) and participated across SDE3/SDE4/MLE/EM hiring loops.
 - **Visiting Faculty/Instructor, Masters' Union:** Taught applied Machine Learning and Generative AI; mentored capstone projects.
-- Presented Observe's first engineering talk at SRECON APAC; supported additional international conference acceptances.
-- Drove Observe's first engineering open-source internal tool and partnered with AWS on external technical collaboration.
+- Presented Observe’s first engineering talk at SRECON APAC; supported additional international conference acceptances, building engineering culture for technical eminence, and employer branding.
+- Featured in AWS Case Study: Led external technical collaboration with Amazon to architect the "One Load Audit Framework" (OLAF), reducing ML inference costs by 50% and improving developer velocity by 10x. [link](https://aws.amazon.com/solutions/case-studies/observe-ai-case-study/)
 
 ---
 
@@ -112,7 +109,7 @@ Led design and scaling of real-time ML systems powering enterprise conversationa
 
 - **Master of Engineering, Computer Science & Automation**  
   Indian Institute of Science (IISc), Bengaluru, India  
-  [IISc LinkedIn](https://www.linkedin.com/school/indian-institute-of-science/)
+  [institute profile](https://www.linkedin.com/school/indian-institute-of-science/)
 
 - **Bachelor of Engineering, Computer Science & Engineering**  
   NSUT East Campus (formerly AIACT&R), Delhi, India
