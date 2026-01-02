@@ -22,7 +22,7 @@ Engineering Director and AI Leader bridging the gap between research and revenue
 
 ## Professional Experience
 
-### **Observe.AI, Inc.** [company profile](https://www.linkedin.com/company/observeai/)
+### **Observe.AI** ([company profile](https://www.linkedin.com/company/observeai/))
 
 #### **Director of Engineering, AI Agents**  
 *Aug 2024 – Present*
@@ -61,7 +61,7 @@ Led design and scaling of real-time ML systems powering enterprise conversationa
 
 ---
 
-### **Animaker, Inc.** [company profile](https://www.linkedin.com/company/animaker/)
+### **Animaker, Inc.** ([company profile](https://www.linkedin.com/company/animaker/))
 
 #### **Lead Research Scientist/Team Lead, NLP**  
 *May 2019 – Dec 2020*
@@ -72,7 +72,7 @@ Led design and scaling of real-time ML systems powering enterprise conversationa
 
 ---
 
-### **Samsung R&D Institute India, Bengaluru** [company profile](https://www.linkedin.com/company/samsungrndindiabangalore/)
+### **Samsung R&D Institute India, Bengaluru** ([company profile](https://www.linkedin.com/company/samsungrndindiabangalore/))
 
 #### **Senior/Lead Engineer, Deep Learning**  
 *Jul 2017 – May 2019*
@@ -83,7 +83,7 @@ Led design and scaling of real-time ML systems powering enterprise conversationa
 
 ---
 
-## Publications & Industry Contributions [google scholar](https://scholar.google.com/citations?user=HCU5cUAAAAAJ&hl=en)
+## Publications & Industry Contributions ([google scholar](https://scholar.google.com/citations?user=HCU5cUAAAAAJ&hl=en))
 
 - **Building the right-sized zero-to-one platform for easy adoption without feature bloat**, PlatformCon 2025. [link](https://2025.platformcon.com/sessions/building-the-right-sized-zero-to-one-platform-for-easy-adoption-without-feature-bloat)
 - **Probing the Depths of Language Models' Contact-Center Knowledge for Quality Assurance**, EMNLP 2024. [link](https://aclanthology.org/2024.emnlp-industry.60/)
