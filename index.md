@@ -85,6 +85,7 @@ Led design and scaling of real-time ML systems powering enterprise conversationa
 
 ## Publications & Industry Contributions ([google scholar](https://scholar.google.com/citations?user=HCU5cUAAAAAJ&hl=en))
 
+- **Beyond IVR: Benchmarking Customer Support LLM Agents for Business-Adherence**, EACL 2026. [preprint](https://arxiv.org/abs/2601.00596)
 - **Building the right-sized zero-to-one platform for easy adoption without feature bloat**, PlatformCon 2025. [link](https://2025.platformcon.com/sessions/building-the-right-sized-zero-to-one-platform-for-easy-adoption-without-feature-bloat)
 - **Probing the Depths of Language Models' Contact-Center Knowledge for Quality Assurance**, EMNLP 2024. [link](https://aclanthology.org/2024.emnlp-industry.60/)
 - **Tailored Real-Time Call Summarization System for Contact-Centers**, Interspeech 2023. [link](https://www.isca-archive.org/interspeech_2023/sachdeva23_interspeech.pdf)
