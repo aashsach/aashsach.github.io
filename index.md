@@ -100,7 +100,7 @@ Led design and scaling of real-time ML systems powering enterprise conversationa
 - Standardized senior engineering hiring rubrics (SDE3+) and participated across SDE3/SDE4/MLE/EM hiring loops.
 - **Visiting Faculty/Instructor, Masters' Union:** Taught applied Machine Learning and Generative AI; mentored capstone projects.
 - Presented Observe’s first engineering talk at SRECON APAC; supported additional international conference acceptances, building engineering culture for technical eminence, and employer branding.
-- Featured in AWS Case Study: Led external technical collaboration with Amazon to architect the "One Load Audit Framework" (OLAF), reducing ML inference costs by 50% and improving developer velocity by 10x. [link](https://aws.amazon.com/solutions/case-studies/observe-ai-case-study/)
+- Featured in AWS Case Study: Led external technical collaboration with Amazon to architect the "One Load Audit Framework" (OLAF), reducing ML inference costs by 50% and improving developer velocity by 10x. ([case-study](https://aws.amazon.com/solutions/case-studies/observe-ai-case-study/)) ([blog](https://aws.amazon.com/blogs/machine-learning/speed-meets-scale-load-testing-sagemakerai-endpoints-with-observe-ais-testing-tool/))
 
 ---
 
