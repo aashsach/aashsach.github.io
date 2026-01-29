@@ -6,7 +6,7 @@ layout: default
 
 ## Executive Summary
 
-Engineering Director and AI Leader bridging the gap between research and revenue. Currently leading the AI Agents division at Observe.AI, scaling engineering organizations that deliver tangible business results. Executive highlights include leading the 0→1 launch of GenAI products, driving significant net-new ARR, architecting systems processing trillions of tokens, and owning a headcount strategy to align technical roadmaps with US-facing C-Suite goals.
+AI and Engineering Leader bridging the gap between research and revenue. Currently leading the AI Agents division at Observe.AI, scaling engineering organizations that deliver tangible business results. Executive highlights include leading the 0→1 launch of GenAI products, driving significant net-new ARR, architecting systems processing trillions of tokens, and owning a headcount strategy to align technical roadmaps with US-facing C-Suite goals.
 
 ---
 
