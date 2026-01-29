@@ -110,7 +110,7 @@ Led design and scaling of real-time ML systems powering enterprise conversationa
   Indian Institute of Science (IISc), Bengaluru, India  
   [institute profile](https://www.linkedin.com/school/indian-institute-of-science/)
 
-- **Bachelor of Engineering, Computer Science & Engineering**  
+- **Bachelor of Technology, Computer Science & Engineering**  
   NSUT East Campus (formerly AIACT&R), Delhi, India
 
 ---
